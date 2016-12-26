@@ -1,14 +1,14 @@
 {
- "products":[
-		{
-			"image_uri":"https://scontent.fdel1-1.fna.fbcdn.net/v/t34.0-12/15723940_141159996373162_402642041_n.png?oh=0ad241f52902e567387fbaaa6ae32ece&oe=58644B66",
-			"votes_a":300,
-			"votes_b":700
-		},
-		{
-			"image_uri":"https://scontent.fdel1-1.fna.fbcdn.net/v/t34.0-12/15451415_126054707883691_1775755336_n.png?oh=6df5d04e0f743c9e6d5b5fb3b814370e&oe=58637185",
-			"votes_a":400,
-			"votes_b":600
-		}
-	]
+   "products":[
+      {
+         "image_uri":"https://scontent.fdel1-1.fna.fbcdn.net/v/t34.0-12/15723940_141159996373162_402642041_n.png?oh=0ad241f52902e567387fbaaa6ae32ece&oe=58644B66",
+         "votes_a":300,
+         "votes_b":700
+      },
+      {
+         "image_uri":"https://scontent.fdel1-1.fna.fbcdn.net/v/t34.0-12/15451415_126054707883691_1775755336_n.png?oh=6df5d04e0f743c9e6d5b5fb3b814370e&oe=58637185",
+         "votes_a":400,
+         "votes_b":600
+      }
+   ]
 }
